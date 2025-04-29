@@ -4,7 +4,7 @@ Dentro de este proyecto tenemos la problematica de un empresario que cuenta con 
 
 Asi que el reto será realizar una serie de analisis a las 4 tiendas para poder brindar recomendaciones y al empresario y así que pueda tomar la mejor decisión y más optima para sus negocios.
 ---
-##Para desarrollarlo se realizan los siguientes analisis:
+## Para desarrollarlo se realizan los siguientes analisis:
 Los procesos se realizan para las 4 tiendas y se crean gráficas para una mejor visualización de los resultados.
 Se analiza lo siguiente:
 - Ventas de cada tienda
@@ -13,7 +13,7 @@ Se analiza lo siguiente:
 - Los productos más y vennos vendidas
 - Valor de envio promedio por tienda
 ---
-##Como lo haremos
+## Como lo haremos
 Para desarrollar este proyecto se hace uso de las siguiente tecnologías:
 - **Python**
 - **Pagina colab** para el uso de librerias
